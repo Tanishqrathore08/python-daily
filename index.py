@@ -14,9 +14,3 @@ scores.append(100)
 print(scores)
 print(scores[1])
 
-# these are for dictionary in Python
-name ={'first': 'tanishq'}
-name['last'] ='rathore'
-
-print(name)
-print(name['first'])
